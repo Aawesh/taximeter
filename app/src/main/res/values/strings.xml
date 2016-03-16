@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Taxi Meter</string>
+    <string name="menu_settings" translatable="false">Settings</string>
+    <string name="pop_menu_about" translatable="false">About App</string>
+    <string name="pop_menu_settings" translatable="false">Settings</string>
+    <string name="dialog_message" translatable="false">This app is a 3rd year mini project of Embedded System by Aawesh, Anil, Aayam and Kripesh supervised by course instructor Mr. Prakash Paudyal, Kathmandu University. Please send your feedbacks at taximeterktm@gmail.com</string>
+    <string name="dialog_title" translatable="false">About KTM Taxi Meter</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="quit" translatable="false">Quit</string>
+    <string name="rating" translatable="false">Rate this App</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="exit_header" translatable="false">KTM Taxi Meter</string>
+    <string name="exit_message" translatable="false">Thanks for using this app. If you have any comments please post it in the play store or send your feedbacks at taximeterktm@gmail.com</string>
+    <string name="exit_confirmation" translatable="false">Are you sure you want to stop?</string>
+    <string name="back" translatable="false">Back</string>
+
+</resources>
